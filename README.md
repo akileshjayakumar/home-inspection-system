@@ -1,4 +1,4 @@
-# Home Inspection Visualisation
+# Home Inspection System
 
 This Python script allows users to input data about home inspections, including location, type of hazard, and risk level. It provides options to view a summary report based on the entered data and to end the program.
 
